@@ -1,0 +1,7 @@
+C:\Users\Anteste\source\repos\GettingStarted\Say My Name\bin\Debug\Say My Name.exe.config
+C:\Users\Anteste\source\repos\GettingStarted\Say My Name\bin\Debug\Say My Name.exe
+C:\Users\Anteste\source\repos\GettingStarted\Say My Name\bin\Debug\Say My Name.pdb
+C:\Users\Anteste\source\repos\GettingStarted\Say My Name\obj\Debug\Say My Name.csprojAssemblyReference.cache
+C:\Users\Anteste\source\repos\GettingStarted\Say My Name\obj\Debug\Say My Name.csproj.CoreCompileInputs.cache
+C:\Users\Anteste\source\repos\GettingStarted\Say My Name\obj\Debug\Say My Name.exe
+C:\Users\Anteste\source\repos\GettingStarted\Say My Name\obj\Debug\Say My Name.pdb
